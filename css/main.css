@@ -6,4 +6,7 @@ main img {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  margin-bottom: 50px;
+  border-bottom: lightcyan 50px solid;
+  border-radius: 2px;
 }
